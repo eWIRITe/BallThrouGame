@@ -13,7 +13,7 @@ public class TargetsControl : MonoBehaviour
         if (other.tag == "TargetHuman")
         {
             if (other.GetComponent<Target>()) StartCoroutine(SpawnNewDoll(other.GetComponent<Target>().selfNumber));
-            Ui.lastFall += 8.0f;
+            Ui.lastFall += 5;
 
             Ui.Score += 1;
         }
