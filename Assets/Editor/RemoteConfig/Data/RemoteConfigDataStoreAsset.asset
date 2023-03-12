@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"022ed31c-5ad3-44cf-abbe-af4f13cc583b\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"httpAdres\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"\"\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"022ed31c-5ad3-44cf-abbe-af4f13cc583b\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"httpAdres\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"\"\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"83abcb33-86e8-46c6-831c-3a7c610bd69e\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"e0b256a0-2aae-44fa-939e-080e36494ca2\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2023-03-12T01:21:37Z\",\r\n    \"updatedAt\":
+    \"2023-03-12T01:21:37Z\"\r\n  }\r\n]"

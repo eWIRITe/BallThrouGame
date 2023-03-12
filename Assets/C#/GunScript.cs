@@ -31,6 +31,8 @@ public class GunScript : MonoBehaviour
     public float RechargeTime;
     private float Timer;
 
+    public static bool Loose = false;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -40,6 +42,8 @@ public class GunScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Loose) return;
+
         foreach(Touch touch in Input.touches)
         {
             if(touch.phase == TouchPhase.Began)
