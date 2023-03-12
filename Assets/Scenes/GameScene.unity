@@ -178,6 +178,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (89)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &18863025 stripped
@@ -239,6 +243,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (92)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -302,6 +310,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &35968653 stripped
@@ -364,6 +376,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &42077999 stripped
@@ -423,9 +439,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
+  m_Maskable: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -502,6 +518,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &50000875 stripped
@@ -563,6 +583,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -626,6 +650,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &67709216 stripped
@@ -687,6 +715,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (70)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -750,6 +782,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &70726567 stripped
@@ -812,6 +848,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &110269985 stripped
@@ -873,6 +913,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (94)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -966,6 +1010,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -1299,6 +1347,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &140490960 stripped
@@ -1360,6 +1412,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (85)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -1423,6 +1479,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &164648162 stripped
@@ -1447,7 +1507,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &192987441
 Transform:
@@ -1582,6 +1642,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &209468903 stripped
@@ -1644,6 +1708,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (85)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &213007197 stripped
@@ -1687,7 +1755,7 @@ RectTransform:
   - {fileID: 503381221}
   - {fileID: 1151222117}
   m_Father: {fileID: 1668139803}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1787,6 +1855,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &227151155 stripped
@@ -1848,6 +1920,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -1911,6 +1987,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (69)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &247604386 stripped
@@ -1972,6 +2052,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -2035,6 +2119,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (98)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &256398825 stripped
@@ -2056,7 +2144,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &269673323
 Transform:
@@ -2176,6 +2264,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &299115325 stripped
@@ -2237,6 +2329,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -2300,6 +2396,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (76)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &326121688 stripped
@@ -2362,6 +2462,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (66)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &328756219 stripped
@@ -2423,6 +2527,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (95)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -2599,7 +2707,7 @@ Transform:
   - {fileID: 1721624787754737025}
   - {fileID: 1245933181}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &368489666
 PrefabInstance:
@@ -2655,6 +2763,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (74)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -2718,6 +2830,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &376912203 stripped
@@ -2779,6 +2895,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (71)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -2842,6 +2962,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &379565565 stripped
@@ -2903,6 +3027,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (93)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -2966,6 +3094,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &397516485 stripped
@@ -3027,6 +3159,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -3090,6 +3226,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (77)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &397693766 stripped
@@ -3151,6 +3291,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -3214,6 +3358,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (71)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &402397213 stripped
@@ -3275,6 +3423,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -3338,6 +3490,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (72)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &425783429 stripped
@@ -3399,6 +3555,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (83)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -3462,6 +3622,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (68)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &444094766 stripped
@@ -3523,6 +3687,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -3586,6 +3754,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (101)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &462667479 stripped
@@ -3647,6 +3819,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (77)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -3710,6 +3886,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (88)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &476734395 stripped
@@ -3771,6 +3951,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -3969,6 +4153,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &484347947 stripped
@@ -4030,6 +4218,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -4227,6 +4419,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (74)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &504920592 stripped
@@ -4289,6 +4485,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &514543862 stripped
@@ -4350,6 +4550,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -4577,6 +4781,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &525717733 stripped
@@ -4639,6 +4847,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (87)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &532595472 stripped
@@ -4698,9 +4910,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
+  m_Maskable: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -4777,6 +4989,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &547064142 stripped
@@ -4838,6 +5054,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -4901,6 +5121,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &565086769 stripped
@@ -4962,6 +5186,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -5159,6 +5387,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &617724084 stripped
@@ -5220,6 +5452,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -5283,6 +5519,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &639122061 stripped
@@ -5344,6 +5584,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -5407,6 +5651,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &654552538 stripped
@@ -5468,6 +5716,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -5531,6 +5783,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (91)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &657302821 stripped
@@ -5592,6 +5848,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -5655,6 +5915,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &684783685 stripped
@@ -5716,6 +5980,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -5779,6 +6047,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (81)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &699094364 stripped
@@ -5801,7 +6073,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!108 &705507994
 Light:
@@ -5864,7 +6136,7 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
-  m_ShadowAngle: 0
+  m_ShadowAngle: 90
 --- !u!4 &705507995
 Transform:
   m_ObjectHideFlags: 0
@@ -5935,6 +6207,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &710139607 stripped
@@ -5996,6 +6272,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -6059,6 +6339,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &748832234 stripped
@@ -6121,6 +6405,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &756620373 stripped
@@ -6159,6 +6447,141 @@ Transform:
   m_Father: {fileID: 1245933181}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!1 &787980169
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 787980170}
+  - component: {fileID: 787980172}
+  - component: {fileID: 787980171}
+  m_Layer: 5
+  m_Name: Text (TMP) (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &787980170
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787980169}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1585944747}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -162.78998, y: -100.890015}
+  m_SizeDelta: {x: 305.53003, y: 69.466}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &787980171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787980169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 1
+  m_fontSizeMin: 18
+  m_fontSizeMax: 1000
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &787980172
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787980169}
+  m_CullTransparentMesh: 1
 --- !u!1001 &821457661
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6213,6 +6636,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -6276,6 +6703,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &856109137 stripped
@@ -6337,6 +6768,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (105)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -6400,6 +6835,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &867830876 stripped
@@ -6421,7 +6860,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &870445897
 Transform:
@@ -6503,6 +6942,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (103)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &871197937 stripped
@@ -6564,6 +7007,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -6695,6 +7142,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &888414591 stripped
@@ -6756,6 +7207,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (90)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -6819,6 +7274,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &929273241 stripped
@@ -6880,6 +7339,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (78)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -6943,6 +7406,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &937718998 stripped
@@ -7004,6 +7471,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (88)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -7067,6 +7538,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &943345614 stripped
@@ -7128,6 +7603,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (97)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -7191,6 +7670,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (86)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &959200064 stripped
@@ -7249,7 +7732,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 1000
+  far clip plane: 300
   field of view: 60
   orthographic: 0
   orthographic size: 5
@@ -7398,6 +7881,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &969101923 stripped
@@ -7459,6 +7946,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (100)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -7522,6 +8013,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (66)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &977055157 stripped
@@ -7543,7 +8038,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1011779211
 Transform:
@@ -7668,6 +8163,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (63)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1012811611 stripped
@@ -7729,6 +8228,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -7886,7 +8389,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1055206726
 Transform:
@@ -8091,6 +8594,141 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1062066472}
   m_CullTransparentMesh: 1
+--- !u!1 &1067561422
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1067561423}
+  - component: {fileID: 1067561425}
+  - component: {fileID: 1067561424}
+  m_Layer: 5
+  m_Name: Text (TMP) (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1067561423
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1067561422}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1585944747}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -162.78955, y: -32.044678}
+  m_SizeDelta: {x: 305.52734, y: 62.714294}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1067561424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1067561422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 'Your score:'
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 56.1
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 1
+  m_fontSizeMin: 18
+  m_fontSizeMax: 1000
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1067561425
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1067561422}
+  m_CullTransparentMesh: 1
 --- !u!1 &1070270087
 GameObject:
   m_ObjectHideFlags: 0
@@ -8143,9 +8781,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
+  m_Maskable: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -8222,6 +8860,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (93)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1085676970 stripped
@@ -8283,6 +8925,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (78)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -8481,6 +9127,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1108322681 stripped
@@ -8543,6 +9193,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (63)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1121353959 stripped
@@ -8604,6 +9258,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -8936,6 +9594,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1159344978 stripped
@@ -8997,6 +9659,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -9195,6 +9861,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1196391638 stripped
@@ -9256,6 +9926,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -9319,6 +9993,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (79)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1209632766 stripped
@@ -9380,6 +10058,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (102)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -9665,6 +10347,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1267451039 stripped
@@ -9726,6 +10412,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (67)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -9789,6 +10479,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1301795394 stripped
@@ -9850,6 +10544,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (86)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -9913,6 +10611,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (81)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1304800432 stripped
@@ -9975,6 +10677,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1318385051 stripped
@@ -9996,7 +10702,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1326164302
 Transform:
@@ -10064,7 +10770,7 @@ Transform:
   - {fileID: 8884388318027055309}
   - {fileID: 4843724643778240331}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1342810419
 PrefabInstance:
@@ -10120,6 +10826,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -10183,6 +10893,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (95)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1370526075 stripped
@@ -10223,7 +10937,7 @@ RectTransform:
   - {fileID: 1170636815}
   - {fileID: 1103486789}
   m_Father: {fileID: 1668139803}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -10323,6 +11037,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (73)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1422524758 stripped
@@ -10384,6 +11102,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -10582,6 +11304,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (104)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1444037954 stripped
@@ -10644,6 +11370,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1444504025 stripped
@@ -10685,7 +11415,7 @@ RectTransform:
   - {fileID: 1062066473}
   - {fileID: 610835707}
   m_Father: {fileID: 1668139803}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -10785,6 +11515,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (64)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1451234998 stripped
@@ -10846,6 +11580,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -10909,6 +11647,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1462299205 stripped
@@ -10970,6 +11712,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -11033,6 +11779,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (94)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1497349943 stripped
@@ -11094,6 +11844,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (90)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -11157,6 +11911,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1511145626 stripped
@@ -11218,6 +11976,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -11281,6 +12043,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1531435912 stripped
@@ -11342,6 +12108,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -11405,6 +12175,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1545304141 stripped
@@ -11466,6 +12240,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (91)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -11560,6 +12338,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (67)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1571981893 stripped
@@ -11622,6 +12404,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (70)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1582647609 stripped
@@ -11663,8 +12449,10 @@ RectTransform:
   - {fileID: 1037222378}
   - {fileID: 483229598}
   - {fileID: 1246092000}
+  - {fileID: 1067561423}
+  - {fileID: 787980170}
   m_Father: {fileID: 1668139803}
-  m_RootOrder: 1
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -11764,6 +12552,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1588180374 stripped
@@ -11825,6 +12617,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (82)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -11888,6 +12684,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (57)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1601161385 stripped
@@ -11949,6 +12749,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -12012,6 +12816,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (87)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1660129880 stripped
@@ -12073,6 +12881,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (83)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -12175,12 +12987,12 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 879836393}
-  - {fileID: 1585944747}
   - {fileID: 1402883014}
   - {fileID: 226757215}
   - {fileID: 1449292262}
+  - {fileID: 1585944747}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -12201,7 +13013,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LastFallText: {fileID: 483229599}
   ScoreOnLoseScreen: {fileID: 1436642497}
-  ScoreOnMainScreen: {fileID: 483229599}
+  ScoreOnMainScreen: {fileID: 787980171}
   StartPanel: {fileID: 1402883013}
   MainPanel: {fileID: 1585944746}
   LooseScreen: {fileID: 226757214}
@@ -12395,6 +13207,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -12593,6 +13409,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (68)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1694967193 stripped
@@ -12654,6 +13474,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -12717,6 +13541,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1702123470 stripped
@@ -12778,6 +13606,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -12975,6 +13807,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (92)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1746236873 stripped
@@ -13036,6 +13872,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -13234,6 +14074,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (79)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1786436995 stripped
@@ -13295,6 +14139,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -13358,6 +14206,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1815189121 stripped
@@ -13419,6 +14271,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (84)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -13482,6 +14338,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (80)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1837213768 stripped
@@ -13543,6 +14403,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -13606,6 +14470,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1893259197 stripped
@@ -13667,6 +14535,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -13730,6 +14602,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1917564852 stripped
@@ -13791,6 +14667,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -13854,6 +14734,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1949303733 stripped
@@ -13915,6 +14799,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -13978,6 +14866,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1957950395 stripped
@@ -14039,6 +14931,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (99)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -14102,6 +14998,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &1991239207 stripped
@@ -14163,6 +15063,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -14226,6 +15130,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &2002947308 stripped
@@ -14287,6 +15195,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (80)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -14350,6 +15262,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (89)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &2025272222 stripped
@@ -14411,6 +15327,10 @@ PrefabInstance:
     - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
       propertyPath: m_Name
       value: Fans Tribune A (84)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
@@ -14474,6 +15394,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (96)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &2061256450 stripped
@@ -14536,6 +15460,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fans Tribune A (72)
       objectReference: {fileID: 0}
+    - target: {fileID: 7780087280063420613, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57eefa523cc14133805804e68c78ab86, type: 3}
 --- !u!4 &2137366335 stripped
@@ -14568,7 +15496,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!64 &49830827989518645
 MeshCollider:
@@ -14699,7 +15627,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &268075327624469051
 MeshFilter:
@@ -14726,7 +15654,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &282407941910914685
 MeshRenderer:
@@ -14784,7 +15712,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!64 &292240489651495871
 MeshCollider:
@@ -14859,7 +15787,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &331647830150137906
 MeshRenderer:
@@ -15165,7 +16093,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &763775411070737398
 GameObject:
@@ -15184,7 +16112,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!64 &779340999011534240
 MeshCollider:
@@ -15217,7 +16145,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &805364416417060646
 MeshRenderer:
@@ -15293,7 +16221,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &895959669839201851
 MeshRenderer:
@@ -15345,13 +16273,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 576061627645823013}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -36.32}
+  m_LocalPosition: {x: 0, y: 0, z: -23.34}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6439589148075730114}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &915713222883955360
 MonoBehaviour:
@@ -15409,7 +16337,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &1071906267841510294
 MeshRenderer:
@@ -15541,7 +16469,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1137557743821236725
 Transform:
@@ -15583,7 +16511,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &1194247881021888645
 MeshRenderer:
@@ -15644,7 +16572,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!64 &1323859420429944666
 MeshCollider:
@@ -15714,7 +16642,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &1492286473214626852
 GameObject:
@@ -15733,7 +16661,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1500001236743566173
 Transform:
@@ -15767,7 +16695,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &1524789281760061328
 GameObject:
@@ -15786,7 +16714,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &1561967295681363454
 GameObject:
@@ -15824,7 +16752,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &1579938288773182713
 MeshFilter:
@@ -15991,7 +16919,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1721624787754737025
 Transform:
@@ -16096,7 +17024,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1878541122581593976
 Transform:
@@ -16258,7 +17186,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!64 &2022588911652133123
 MeshCollider:
@@ -16306,7 +17234,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &2069362812673511199
 MeshFilter:
@@ -16455,7 +17383,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &2277896513204857430
 GameObject:
@@ -16474,7 +17402,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &2327141692721844772
 MeshFilter:
@@ -16501,7 +17429,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!64 &2488190105796879412
 MeshCollider:
@@ -16775,7 +17703,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2860892589088661952
 Transform:
@@ -16901,7 +17829,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &2955727342743703388
 MeshFilter:
@@ -17102,7 +18030,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &3296125475218223325
 MeshFilter:
@@ -17242,7 +18170,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &3462866166418565452
 GameObject:
@@ -17261,7 +18189,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &3472992583490870528
 GameObject:
@@ -17280,7 +18208,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &3486072901585658243
 MeshRenderer:
@@ -17378,7 +18306,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &3728806641086868095
 MeshRenderer:
@@ -17855,7 +18783,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4242054159201079573
 Transform:
@@ -17926,7 +18854,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &4492525511734185424
 GameObject:
@@ -17945,7 +18873,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &4528642492218613932
 GameObject:
@@ -17964,7 +18892,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!64 &4537749944602479688
 MeshCollider:
@@ -18034,7 +18962,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &4573257692560117177
 GameObject:
@@ -18050,7 +18978,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &4600533561727052588
 MeshRenderer:
@@ -18111,7 +19039,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &4611387255344362926
 GameObject:
@@ -18130,7 +19058,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &4628978552939822590
 GameObject:
@@ -18149,7 +19077,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!64 &4686104881149952211
 MeshCollider:
@@ -18374,7 +19302,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4863400781995394946
 Transform:
@@ -18466,7 +19394,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &5089168525681816602
 MeshFilter:
@@ -18493,7 +19421,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &5203229402846010680
 GameObject:
@@ -18512,7 +19440,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5204164711959398650
 Transform:
@@ -18557,7 +19485,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &5228099341299600758
 MeshRenderer:
@@ -18615,7 +19543,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &5312443684696679853
 MeshFilter:
@@ -18650,7 +19578,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5437744549198915396
 Transform:
@@ -18744,7 +19672,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &5518672818159972882
 MeshFilter:
@@ -19166,7 +20094,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &6033713385504177409
 MeshRenderer:
@@ -19238,7 +20166,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!64 &6121344848314083383
 MeshCollider:
@@ -19322,7 +20250,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &6257411746265198965
 GameObject:
@@ -19341,7 +20269,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!64 &6317142355865707889
 MeshCollider:
@@ -19374,7 +20302,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6331773972524538283
 Transform:
@@ -19431,7 +20359,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6439589148075730114
 Transform:
@@ -19480,7 +20408,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &6507112045185513490
 MeshFilter:
@@ -19643,7 +20571,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &6740438070900330527
 MeshRenderer:
@@ -19831,7 +20759,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &6926673637421684012
 GameObject:
@@ -19850,7 +20778,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &6936754876026200966
 MeshRenderer:
@@ -20085,7 +21013,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &7193382891212143098
 GameObject:
@@ -20104,7 +21032,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &7218308136034273832
 MeshFilter:
@@ -20237,7 +21165,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &7412238591410239494
 MeshFilter:
@@ -20369,7 +21297,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &7652391943221093482
 MeshFilter:
@@ -20468,7 +21396,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7883631166841411679
 Transform:
@@ -20581,7 +21509,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!64 &8101128989136576909
 MeshCollider:
@@ -20689,7 +21617,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8230697434378567970
 Transform:
@@ -20853,7 +21781,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!64 &8464190215829831571
 MeshCollider:
@@ -20976,7 +21904,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &8751231959002962840
 GameObject:
@@ -20995,7 +21923,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8754454186951479208
 Transform:
@@ -21057,7 +21985,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &8822041494016255189
 MeshFilter:
@@ -21293,7 +22221,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9194969559307695261
 Transform:
